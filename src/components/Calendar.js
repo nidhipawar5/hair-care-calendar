@@ -85,7 +85,7 @@ export default function CalendarComponent({
 							},
 							calendardatetime: {
 								return: true,
-								sort: 'descending',
+								sort: 'ascending',
 							},
 							maxitemcount: 50,
 							continuationtoken: null,
