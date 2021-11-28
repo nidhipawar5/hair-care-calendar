@@ -95,8 +95,8 @@ export default function ModalComponent({
 		centerPadding: '60px',
 		slidesToShow: 1,
 		speed: 500,
-		arrows: width > 800 ? true : false,
-		infinite: false,
+		arrows: width > 700 ? true : false,
+		infinite: true,
 		focusOnSelect: true,
 	};
 
